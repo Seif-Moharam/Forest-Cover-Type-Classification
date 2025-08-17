@@ -37,7 +37,7 @@ Validation: 20% holdout set
 ### XGBoost
 <img width="656" height="435" alt="XGB_important_features" src="https://github.com/user-attachments/assets/39fc4d6c-8d91-4482-890d-3525a5d722c2" />
 
-##Requirements
+## Requirements
 
 Python 3.12
 
